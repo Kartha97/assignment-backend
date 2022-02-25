@@ -44,6 +44,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<!--I making this change to check the functionlaity of the git commands-->
 
 	<build>
 		<plugins>
